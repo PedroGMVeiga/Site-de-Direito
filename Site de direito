@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site sobre Assuntos Jurídicos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Assuntos Jurídicos</h1>
+</header>
+
+<main>
+    <h2>Introdução ao Direito</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Sed at urna eget lorem blandit volutpat ut non justo.</p>
+    
+    <h2>Legislação em Destaque</h2>
+    <p>Nulla facilisi. Sed at urna eget lorem blandit volutpat ut non justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+    
+    <h2>Casos Jurídicos</h2>
+    <p>Consectetur adipiscing elit. Nulla facilisi. Sed at urna eget lorem blandit volutpat ut non justo.</p>
+</main>
+
+<footer>
+    <p>&copy; 2024 Assuntos Jurídicos</p>
+</footer>
+
+</body>
+</html>
